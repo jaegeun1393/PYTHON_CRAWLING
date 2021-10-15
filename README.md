@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project aims to developing the math quiz application. While developing the application, I was thinkning about the way of perform this website on both mobile OS. Register the application needs to pay the fee on both side. Therefore, I decide to make it web application is because the program can run on both ios and android OS. Math problems are from the open source math quiz website. I collected them by using the beautiful soup and sort data in json file so I can easily load them to the website.
+This project aims to develop the math quiz application. While developing the application, I was thinking about the way to perform this website on both mobile OS. Register the application needs to pay the fee on both sides. Therefore, I decide to make it a web application is because the program can run on both ios and android OS. Math problems are from the open-source math quiz website. I collected them by using the beautiful soup and sort data in JSON file so I can easily load them to the website.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -58,12 +58,11 @@ This project aims to developing the math quiz application. While developing the 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+
   
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This web application is design to providing SAT-level math problems to everyone who is interesting in it.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
