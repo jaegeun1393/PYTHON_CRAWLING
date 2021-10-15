@@ -8,8 +8,6 @@
   <h3 align="center">Web math quiz application</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
     <a href="http://www.swing2app.com/v2_2015_11_21/app_base/app-preview?app_id=dc930ef6-9304-47da-bf0a-f78935d6ef3b&version=0.2&app_string_id=">View Demo</a>
     ·
     <a href="https://github.com/jaegeun1393">Developer Github</a>
