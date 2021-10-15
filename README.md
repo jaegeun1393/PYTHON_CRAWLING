@@ -1,8 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jaegeun1393/MMT_CRAWLING/blob/main/logo.jpg">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/jaegeun1393/MMT_CRAWLING/blob/main/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Web math quiz application</h3>
