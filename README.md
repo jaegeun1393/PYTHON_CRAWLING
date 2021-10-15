@@ -28,9 +28,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Powered by MMT</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -64,14 +61,6 @@ This project aims to developing the math quiz application. While developing the 
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-
-### Powered by MMT
-
-This project is powered by MMTPrep financial support.
-* MMTPrep
-  ```sh
-  https://www.mmtprep.com/
-  ```
   
 ## Usage
 
