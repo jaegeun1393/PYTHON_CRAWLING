@@ -64,8 +64,6 @@ This project aims to develop the math quiz application. While developing the app
 
 This web application is design to providing SAT-level math problems to everyone who is interesting in it.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
